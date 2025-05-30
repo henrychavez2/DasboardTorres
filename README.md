@@ -2,6 +2,9 @@
 Dashboard de Monitoreo de Torres Meteorológicas
 Simulador de torres metereologicas
 
+Se creo en python, un dashboard de monitoreo de torres metereologias en tiempo real, que nos permite saber la informacion 
+del clima, de cada una de las ciudades, conectando para crear su almacenamiento de datos en supabase y sqlite.
+
 Bases de Datos
 El sistema debe almacenar y consultar datos desde al menos tres fuentes:
  SQLite
@@ -21,5 +24,6 @@ Sqlite almacenamiento de datos de la torre:
 
 
 ![image](https://github.com/user-attachments/assets/f09eff61-5f1e-4684-840d-a72722d50054)
+
 
 
